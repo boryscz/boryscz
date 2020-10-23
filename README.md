@@ -14,7 +14,6 @@
 <img align="left" alt="SQL" width="40px" src="https://github.com/boryscz/icons/blob/main/sql.png?short_path=5e11707" />
 <img align="left" alt="PL/SQL" width="40px" src="https://github.com/boryscz/icons/blob/main/plsql.png?short_path=5e11707" />
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/boryscz/icons/blob/main/mongodb.png?short_path=5e11707" />
-<img align="left" alt="Git" width="40px" src="https://github.com/boryscz/icons/blob/main/visual-studio.png?short_path=5e11707" />
 <img align="left" alt="GitHub" width="40px" src="https://github.com/boryscz/icons/blob/main/github.png?short_path=5e11707" />
 <img align="left" alt="Git" width="40px" src="https://github.com/boryscz/icons/blob/main/git.png?short_path=5e11707" />
 <img align="left" alt="Terminal" width="40px" src="https://github.com/boryscz/icons/blob/main/terminal.png?short_path=5e11707" />
