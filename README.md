@@ -1,5 +1,7 @@
 ### I'm Borys - final year Computer Science student 👋
 
+    Still in process of learning of everything
+
 ### I'm familiar with:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/boryscz/icons/blob/main/visual-studio-code.png?short_path=5e11707" />
