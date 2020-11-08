@@ -1,6 +1,6 @@
 ### I'm Borys - final year Computer Science student 👋
 
-    Still in process of learning of everything
+    Still in process of learning about everything
 
 ### I'm familiar with:
 
