@@ -21,6 +21,8 @@
 <img align="left" alt="C" width="40px" src="https://github.com/boryscz/icons/blob/main/c.svg?short_path=5e11707" />
 <img align="left" alt="Linux" width="40px" src="https://github.com/boryscz/icons/blob/main/linux.png?short_path=5e11707" />
 <img align="left" alt="Oracle APEX" width="40px" src="https://github.com/boryscz/icons/blob/main/oracle-apex.png?short_path=5e11707" />
+<img align="left" alt="Oracle APEX" width="40px" src="https://github.com/boryscz/icons/blob/main/tanium.png?short_path=5e11707" />
+<img align="left" alt="Oracle APEX" width="40px" src="https://github.com/boryscz/icons/blob/main/pyqt.png?short_path=5e11707" />
 
 <br />
 <br />
