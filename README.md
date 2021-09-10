@@ -1,6 +1,4 @@
-### I'm Borys - final year Computer Science student 👋
-
-    Still in process of learning about everything
+### CS/IT Engineer
 
 ### I'm familiar with:
 
